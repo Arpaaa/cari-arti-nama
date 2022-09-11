@@ -1,0 +1,16 @@
+{
+  "name": "cari-arti-nama",
+  "version": "1.0.0",
+  "description": "ini adalah npm untuk mencari arti nama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo $(node test.js)"
+  },
+  "keywords": ["scraper", "arti-nama", "nama", "arti"],
+  "author": "Luthfy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

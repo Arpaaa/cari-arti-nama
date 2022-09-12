@@ -15,6 +15,10 @@ cariArtiNama("abdul egi").then((res) => {
    console.log(res);
 });
 ```
+### Run in CLI
+```bash
+node test.js
+```
 
 ### hasil
 ```js
